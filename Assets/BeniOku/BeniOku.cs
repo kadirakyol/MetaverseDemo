@@ -16,6 +16,8 @@ public class BeniOku : MonoBehaviour
       
       Not: Assetler sadece görüntü olarak alınmıştır. Işıklandırma, yerleştirme, colliderlarını ekleme,
       tasarımını yapma vb bütün işlemler tarafımca yapılmıştır. 
+      
+      test 10.05.2022 updated
            
      */
     
